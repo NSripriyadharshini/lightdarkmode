@@ -15,7 +15,8 @@ header{
 #brand>img{
     height: 50px;
     width:50px;
-    margin-left: 15%;
+    margin-left: 13%;
+    border-radius:15px;
 }
 #coupon
 {
